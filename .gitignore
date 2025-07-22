@@ -1,0 +1,5 @@
+AUTH_SECRET=Gm1dM6VRhfVB+/VlvgBlhmH6z/bnjcU4xtMFwkEqQoM=
+KEYCLOAK_CLIENT_ID=nextjs-app
+KEYCLOAK_CLIENT_SECRET=LCoJ01kMaylAzt80dKV1lDTV3iPsftYU
+KEYCLOAK_ISSUER=https://qiam-demo.konneqt.cloud/realms/konneqt-demos
+NEXTAUTH_URL=http://localhost:3000
